@@ -3,4 +3,4 @@ Stage 3 Angry Birds: Introducing Constraint
 
 OUTPUT LINK
 
-https://suwarna-cloud.github.io/Angry-Bird_completed/index.html
+https://atharv-prog.github.io/angy-bird-completed/index.html
